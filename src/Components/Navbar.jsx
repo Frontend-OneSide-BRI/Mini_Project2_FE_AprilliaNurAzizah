@@ -28,7 +28,7 @@ const Navbar = () => {
   };
 
   const handleButtonModal = () => {
-    alert("Your massage has ben send, thank you.");
+    alert("Your massage has been send, thank you.");
   };
 
   return (
